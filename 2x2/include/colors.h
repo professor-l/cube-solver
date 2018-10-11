@@ -1,0 +1,1 @@
+char* color(char c);
